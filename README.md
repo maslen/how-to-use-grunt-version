@@ -1,4 +1,6 @@
-# Example grunt-version usage
+
+how-to-use-grunt-version
+========================
 
 [grunt-verion](https://github.com/kswedberg/grunt-version) automatically changes version numbers in your grunt project.  Here's an example of how to use it.
 
